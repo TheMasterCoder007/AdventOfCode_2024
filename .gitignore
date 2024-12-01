@@ -1,0 +1,10 @@
+# ignore jet brains files
+.idea/
+
+# ignore build/debug files
+bin/
+obj/
+
+# ignore mac file storage info
+.DS_Store
+
