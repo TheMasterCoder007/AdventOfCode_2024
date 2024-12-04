@@ -29,11 +29,11 @@ goals with advent of code.
 ### Language: C#
 
 
-| Day  | Part1 | Part2 | Description                                                                                                                                        |
-|------|-------|-------|----------------------------------------------------------------------------------------------------------------------------------------------------|
-| #1   | [X]   | [X]   | The problem for day one was easy. You simply need to be able parse the string into two lists or arrays and then calculate the required answers.    |
-| #2   | [ ]   | [ ]   |                                                                                                                          |
-| #3   | [ ]   | [ ]   |                                                                                                                          |
+| Day  | Part1 | Part2 | Description                                                                                                                                                                    |
+|------|-------|-------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| #1   | [X]   | [X]   | The problem for day one was easy. I parsed the string into two lists and then calculated the required answers. Part 2 checks for similarity between lists.                     |
+| #2   | [X]   | [X]   | The problem for day two was easy. I parsed the digits into a list and then tested the values against the requirements. Part 2 allows one bad value.                            |
+| #3   | [X]   | [X]   | The problem for day three was easy. I created methods that contain a switch statement to check the character and increment the stage. Part 2 adds additional instruction sets. |
 | #4   | [ ]   | [ ]   |                                                                                                                          |
 | #5   | [ ]   | [ ]   |                                                                                                                          |
 | #6   | [ ]   | [ ]   |                                                                                                                          |
