@@ -3,6 +3,7 @@
 using AdventOfCode_2024;
 using AdventOfCode_2024.Day2;
 using AdventOfCode_2024.Day3;
+using AdventOfCode_2024.Day4;
 
 // day 1
 Console.WriteLine("Running solution for day one's challenge...");
@@ -17,4 +18,9 @@ Console.WriteLine();
 // day 3
 Console.WriteLine("Running solution for day three's challenge...");
 Day3.MullItOver();
+Console.WriteLine();
+
+// day 4
+Console.WriteLine("Running solution for day four's challenge...");
+Day4.CeresSearch();
 Console.WriteLine();
