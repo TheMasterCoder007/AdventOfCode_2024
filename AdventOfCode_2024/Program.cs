@@ -4,6 +4,7 @@ using AdventOfCode_2024;
 using AdventOfCode_2024.Day2;
 using AdventOfCode_2024.Day3;
 using AdventOfCode_2024.Day4;
+using AdventOfCode_2024.Day5;
 
 // day 1
 Console.WriteLine("Running solution for day one's challenge...");
@@ -23,4 +24,9 @@ Console.WriteLine();
 // day 4
 Console.WriteLine("Running solution for day four's challenge...");
 Day4.CeresSearch();
+Console.WriteLine();
+
+// day 5
+Console.WriteLine("Running solution for day five's challenge...");
+Day5.PrintQueue();
 Console.WriteLine();
