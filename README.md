@@ -32,14 +32,11 @@ goals with advent of code.
 | Day  | Part1 | Part2 | Description                                                                                                                                             |
 |------|-------|-------|---------------------------------------------------------------------------------------------------------------------------------------------------------|
 | #1   | [X]   | [X]   | Easy difficultly. I parsed the string into two lists and then calculated the required answers. Part 2 checks for similarity between lists. |
-| #2   | [X]   | [X]   | Easy difficultly. I parsed the digits into a list and then tested the values against the requirements. Part 2 allows one bad value (adjustment to the requirements).   |
+| #2   | [X]   | [X]   | Easy difficultly. I parsed the digits into a list and tested the values against the requirements. Part 2 allows one bad value (adjustment to the requirements).   |
 | #3   | [X]   | [X]   | Easy difficultly. I created methods that contain a switch statement to check the character and increment the stage. Part 2 adds additional instruction sets.   |
 | #4   | [X]   | [X]   | Medium difficultly. For part 1 I used brute force to check every angle for the words. In part 2 I used a targeted check which could be completed in one pass   |
-| #5   | [X]   | [X]   | Easy difficultly. I parsed the input into a Dictionary of rules and a list of page print order instructions. First you calculate the properly ordered instructions. Part 2 
-                         fixes the incorrectly ordered instructions and calculates the answer.   |  
-| #6   | [X]   | [X]   | Hard difficulty. I had a hard time with part 2 on this problem. You need to follow the path of the guard and calculate every possible position unique position he goes to 
-                         for part 1. For part 2, you need to check every possible position you can place a obstical that will cause the guard to get stuck in a loop. My solution is brute force and 
-                         not very effecient   |
+| #5   | [X]   | [X]   | Easy difficultly. I parsed the input into a Dictionary of rules and a page print order instructions list. First, you calculate the properly ordered instructions. Part 2 fixes the incorrectly ordered instructions and calculates the answer.   |  
+| #6   | [X]   | [X]   | Hard difficulty. I had a hard time with part 2 of this problem. You need to follow the path of the guard and calculate every possible unique position he goes to for part 1. For part 2, you need to check every possible position you can place an obstacle that will cause the guard to get stuck in a loop. My solution is brute force and it is not very efficient   |
 | #7   | [ ]   | [ ]   |                                                                                                                          |
 | #8   | [ ]   | [ ]   |                                                                                                                          |
 | #9   | [ ]   | [ ]   |                                                                                                                          |
