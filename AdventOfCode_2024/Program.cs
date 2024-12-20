@@ -5,6 +5,7 @@ using AdventOfCode_2024.Day2;
 using AdventOfCode_2024.Day3;
 using AdventOfCode_2024.Day4;
 using AdventOfCode_2024.Day5;
+using AdventOfCode_2024.Day6;
 
 // day 1
 Console.WriteLine("Running solution for day one's challenge...");
@@ -29,4 +30,9 @@ Console.WriteLine();
 // day 5
 Console.WriteLine("Running solution for day five's challenge...");
 Day5.PrintQueue();
+Console.WriteLine();
+
+// day 6
+Console.WriteLine("Running solution for day sixes challenge...");
+Day6.GuardGallivant();
 Console.WriteLine();
