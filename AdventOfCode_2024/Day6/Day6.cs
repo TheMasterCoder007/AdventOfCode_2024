@@ -73,6 +73,11 @@ public static class Day6 {
         return numberOfUniquePositions;
     }
 
+    /// <summary>
+    /// Used to find the total number of obstructions that could be placed which cause
+    /// the guard to get stuck in a loop
+    /// </summary>
+    /// <returns>Returns total number of obstructions that cause the guard to get stuck in a loop</returns>
     private static int GetNumberOfValidObstructionPoints() {
         var numberOfValidObstructionPoints = 0;
         
