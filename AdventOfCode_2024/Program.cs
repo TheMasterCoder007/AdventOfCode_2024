@@ -6,6 +6,7 @@ using AdventOfCode_2024.Day3;
 using AdventOfCode_2024.Day4;
 using AdventOfCode_2024.Day5;
 using AdventOfCode_2024.Day6;
+using AdventOfCode_2024.Day7;
 
 // day 1
 Console.WriteLine("Running solution for day one's challenge...");
@@ -35,4 +36,9 @@ Console.WriteLine();
 // day 6
 Console.WriteLine("Running solution for day sixes challenge...");
 Day6.GuardGallivant();
+Console.WriteLine();
+
+// day 7
+Console.WriteLine("Running solution for day seven's challenge...");
+Day7.BridgeRepair();
 Console.WriteLine();
